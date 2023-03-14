@@ -1,4 +1,4 @@
-﻿public class Grid
+public class Grid
 {
     private readonly int _numberOfRows;
     private readonly int _numberOfColumns;
